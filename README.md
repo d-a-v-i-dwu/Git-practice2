@@ -22,3 +22,10 @@ For the first push, use "git push -u origin main" to set the upstream
 
 
 Afterwards, for all pushes you can just use "git push"
+
+# How to check and change your origin repository
+
+Use "git remote -v" to see where you're fetching and pushing to
+
+
+Use "git remote set-url origin " followed by the HTTP link of your new repository
