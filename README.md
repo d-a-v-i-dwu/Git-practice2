@@ -18,7 +18,7 @@ Go on your online repository and copy the HTTP link
 Use "git remote add origin " where after origin you paste the HTTP link
 
 
-For the first push, use "git push -u origin master" to set the upstream
+For the first push, use "git push -u origin main" to set the upstream
 
 
 Afterwards, for all pushes you can just use "git push"
